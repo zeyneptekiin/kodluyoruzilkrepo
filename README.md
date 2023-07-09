@@ -25,6 +25,10 @@ code .
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizitartışmak için bir konu açınız.
 
+## Project SS
+
+![Project](image.png)
+
 ## Lisence
 
 [MIT]
